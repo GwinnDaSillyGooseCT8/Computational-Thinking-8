@@ -26,5 +26,7 @@ print("\n\n")
                                                                                           
                                                                                           
                                   
-print("Now it's your turn:")
-print("Find this line (line 30) in the welcome_to_ct8.py file, then change the message to say a fact about you.")                                  
+print("Two truths and a lie :3")
+print("I have an ESSA. My ESSA helps me be calm and not yeet anyone out the window.")                                  
+print("My fav color is green")
+print("I like velociraptors")

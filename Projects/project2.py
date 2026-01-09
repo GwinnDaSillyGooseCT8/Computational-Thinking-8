@@ -8,7 +8,7 @@ Ven_points = 0
 print ("Hello! Welcome to the Alien Convention!!")
 print ("What is your name?")
 name = input()
-if name == "67" or if name == "brainrot":
+if name == "67" or name == "brainrot":
     print (" Your going to jail")
     input()
     input()

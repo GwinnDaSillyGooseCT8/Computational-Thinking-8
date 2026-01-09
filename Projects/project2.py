@@ -8,8 +8,10 @@ Ven_points = 0
 print ("Hello! Welcome to the Alien Convention!!")
 print ("What is your name?")
 name = input()
-if name == "67":
+if name == "67" or if name == "brainrot":
     print (" Your going to jail")
+    input()
+    input()
     input()
 print (f" Nice to meet you {name}. You are taking this test to find out which type of planet your from!")
 print ("There are jupiter, Saturn, Earth, Mars, Venus, and Neptune.")
